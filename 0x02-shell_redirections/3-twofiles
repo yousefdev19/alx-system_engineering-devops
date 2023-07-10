@@ -1,2 +1,2 @@
 #!/bin/bash
-less /etc/psswd /etc/hosts
+pr -m -t /etc/psswd /etc/hosts
